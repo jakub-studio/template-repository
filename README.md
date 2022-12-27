@@ -33,7 +33,7 @@ After you have created a new repository from this template, it is advised to do 
 - [ ] Update the `LICENSE` file to reflect your project
 	- The template uses [The Unlicense](https://unlicense.org/). It is important that you change this to a license of your choosing unless you wish to use The Unlicense. If you are unfamiliar with open source licensing, I suggest you give [this website](https://opensource.org/licenses) a visit.
 - [ ] Run `npm init` within the project folder
-- [ ] Run `npm i typescript` (if using)
+- [ ] Run `npm i typescript` (if using TypeScript)
 
 After that, you are good to go! Happy coding!
 
